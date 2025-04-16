@@ -1,0 +1,21 @@
+[2025-03-28 21:18:21] Proses registrasi dimulai
+[2025-03-28 21:18:21] Input diterima - Nama: Jamal, Username: jamalgym, Email: jamal@gmail.com
+[2025-03-28 21:18:21] Exception: Column 'membership_id' cannot be null
+[2025-03-28 22:16:06] Proses registrasi dimulai
+[2025-03-28 22:16:06] Input diterima - Nama: jek, Username: jekouw, Email: jekouw@gmail.com
+[2025-03-28 22:16:06] Exception: Column 'membership_id' cannot be null
+[2025-03-29 06:57:58] Proses registrasi dimulai
+[2025-03-29 06:57:58] Input diterima - Nama: mbah, Username: mboh, Email: a13232@student.upnyk.ac.id
+[2025-03-29 06:57:58] Exception: Cannot add or update a child row: a foreign key constraint fails (`gym`.`akun_membership`, CONSTRAINT `akun_membership_ibfk_1` FOREIGN KEY (`membership_id`) REFERENCES `membership` (`id`))
+[2025-03-30 07:36:55] Proses registrasi dimulai
+[2025-03-30 07:36:55] Input diterima - Nama: mbah, Username: mboh, Email: a13232@student.upnyk.ac.id
+[2025-03-30 07:36:55] Exception: Cannot add or update a child row: a foreign key constraint fails (`gym`.`akun_membership`, CONSTRAINT `akun_membership_ibfk_1` FOREIGN KEY (`membership_id`) REFERENCES `membership` (`id`))
+[2025-03-30 07:38:09] Proses registrasi dimulai
+[2025-03-30 07:38:09] Input diterima - Nama: mbah, Username: mboh, Email: a13232@student.upnyk.ac.id
+[2025-03-30 07:38:09] Exception: Cannot add or update a child row: a foreign key constraint fails (`gym`.`akun_membership`, CONSTRAINT `akun_membership_ibfk_1` FOREIGN KEY (`membership_id`) REFERENCES `membership` (`id`))
+[2025-03-30 07:45:12] Proses registrasi dimulai
+[2025-03-30 07:45:12] Input diterima - Nama: Gusti, Username: gustiwiw, Email: 124230024@student.upnyk.ac.id
+[2025-03-30 07:45:12] Validasi errors: Email sudah terdaftar
+[2025-03-30 07:45:37] Proses registrasi dimulai
+[2025-03-30 07:45:37] Input diterima - Nama: Gusti, Username: gustiwiw, Email: gusti@student.upnyk.ac.id
+[2025-03-30 07:45:37] Exception: Cannot add or update a child row: a foreign key constraint fails (`gym`.`akun_membership`, CONSTRAINT `akun_membership_ibfk_1` FOREIGN KEY (`membership_id`) REFERENCES `membership` (`id`))
