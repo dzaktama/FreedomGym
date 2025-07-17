@@ -1,6 +1,8 @@
 # Freedom Gym - Sistem Informasi Manajemen Gym
 
-Freedom Gym adalah aplikasi berbasis web dan mobile yang dikembangkan untuk membantu operasional usaha gym agar lebih efisien dan terstruktur. Sistem ini mengelola proses mulai dari pendaftaran anggota, pembayaran, hingga pemesanan kelas dalam web.
+Freedom Gym adalah aplikasi berbasis web dan mobile yang dikembangkan untuk membantu operasional usaha gym agar lebih efisien dan terstruktur. Sistem ini mengelola proses mulai dari pendaftaran anggota, pembayaran, hingga pemesanan kelas dalam satu platform yang terintegrasi.
+
+Lihat Webnya [disini](http://projectrbpl.free.nf/FreedomGYM)
 
 ## Fitur Utama
 
@@ -57,3 +59,8 @@ Freedom Gym adalah aplikasi berbasis web dan mobile yang dikembangkan untuk memb
   - Menjadwalkan dan mengatur kapasitas kelas
   - Mengakses laporan keuangan dan statistik
   - Mengatur konfigurasi sistem dari dashboard admin
+
+## Akun yang bisa Anda pakai
+
+### username : dzaktama
+password : Aaaaaaaa1
