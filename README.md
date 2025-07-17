@@ -61,6 +61,6 @@ Lihat Webnya [disini](http://projectrbpl.free.nf/FreedomGYM)
   - Mengatur konfigurasi sistem dari dashboard admin
 
 ## Akun yang bisa Anda pakai
-
-### username : dzaktama
+###
+username : dzaktama
 password : Aaaaaaaa1
