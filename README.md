@@ -60,6 +60,10 @@ Lihat Webnya [disini](http://projectrbpl.free.nf/FreedomGYM)
   - Mengakses laporan keuangan dan statistik
   - Mengatur konfigurasi sistem dari dashboard admin
 
-## Akun yang bisa Anda pakai
+## Akun User yang bisa Anda pakai
 ### username : dzaktama
 ### password : Aaaaaaaa1
+
+## Akun Admin yang bisa Anda pakai
+### username : kemirijahe
+### password : admin123
